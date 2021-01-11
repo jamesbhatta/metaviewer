@@ -125,10 +125,32 @@
         </div>
 
         <pre class="d-block">
-        <code id="response" class="language-html hljs">
-            { }
-        </code>
-    </pre>
+            <code id="response" class="language-html hljs">
+                { }
+            </code>
+        </pre>
+
+        <div class="d-flex border border-2 rounded-3 overflow-hidden" style="background-color: #f1f1f1;">
+            <div class="ratio ratio-4x3" style="max-width: 200px;">
+                <img class="rounded-start" src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" alt="">
+            </div>
+            <div class="py-3 px-3">
+                <h5 class="text-dark mt-0 mb-1">List-based media object</h5>
+                <p class="text-muted">
+                    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                    <a class="d-block text-muted font-monospace mt-2" href="" style="text-decoration: none;">
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
+                                <path d="M4.715 6.542L3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.001 1.001 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z" />
+                                <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 0 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 0 0-4.243-4.243L6.586 4.672z" />
+                            </svg>
+                        </span>
+                        <span>youtube.com</span>
+                    </a>
+                </p>
+            </div>
+        </div>
+
     </div>
 
     <script>
