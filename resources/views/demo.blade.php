@@ -154,7 +154,7 @@
     </div>
 
     <script>
-        var apiUrl = '{{ url() }}/api/metas'
+        var apiUrl = '{{ url('/') }}/api/metas'
         document.getElementById("btn").addEventListener("click", function() {
             let url = document.getElementById("url").value;
             console.log(url);
